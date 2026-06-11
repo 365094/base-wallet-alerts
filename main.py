@@ -49,3 +49,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Maintenance note: keep inputs public-safe and configurable.
